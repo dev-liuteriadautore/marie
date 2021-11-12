@@ -1,11 +1,5 @@
-<p align="center">
-  <a href="https://gethyas.com/">
-    <img alt="Doks" src="https://hyas.netlify.app/hyas.svg" width="60">
-  </a>
-</p>
-
 <h1 align="center">
-  Hyas
+  Marie
 </h1>
 
 <h3 align="center">
@@ -13,7 +7,7 @@
 </h3>
 
 <p align="center">
-  Hyas is a Hugo starter helping you build modern websites that are secure, fast, and SEO-ready — by default.
+  Marie is a Hugo starter helping you build modern websites that are secure, fast, multi language and SEO-ready — by default.
 </p>
 
 <p align="center">
